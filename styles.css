@@ -1,0 +1,19 @@
+.content{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
+
+
+.header{
+    height: 20px;
+    border: 20px rebeccapurple;
+}
+
+div{
+    width: 200px;
+    height: 100px;
+    border: 20px red;
+    flex: 1;
+
+}
